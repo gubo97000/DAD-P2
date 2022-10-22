@@ -26,55 +26,106 @@
             "name": "Product 1",
             "id": 1,
             "category_id": 1,
-            "price": 2.80
+            "price": 2.80,
+            "description": "Product 1 description thta is a ilonger so i can test if ti works I hope it does because i am tired and i wnat ot finish this up"
         },
         {
             "name": "Product 2",
             "id": 2,
             "category_id": 1,
-            "price": 20.00
+            "price": 4.70,
+            "description": "Product 2 description thta is a ilonger so i can test if ti works I hope it does because i am tired and i wnat ot finish this up"
         },
         {
             "name": "Product 3",
             "id": 3,
-            "category_id": 2,
-            "price": 4.58
+            "category_id": 1,
+            "price": 1.80,
+            "description": "Product 3 description thta is a ilonger so i can test if ti works I hope it does because i am tired and i wnat ot finish this up"
         },
         {
             "name": "Product 4",
             "id": 4,
             "category_id": 2,
-            "price": 9.12
+            "price": 10.80,
+            "description": "Product 4 description thta is a ilonger so i can test if ti works I hope it does because i am tired and i wnat ot finish this up"
         },
         {
             "name": "Product 5",
             "id": 5,
-            "category_id": 3,
-            "price": 2.60
+            "category_id": 2,
+            "price": 2.80,
+            "description": "Product 5 description thta is a ilonger so i can test if ti works I hope it does because i am tired and i wnat ot finish this up"
         },
         {
             "name": "Product 6",
             "id": 6,
-            "category_id": 3,
-            "price": 3.40
+            "category_id": 2,
+            "price": 2.80,
+            "description": "Product 6 description thta is a ilonger so i can test if ti works I hope it does because i am tired and i wnat ot finish this up"
         },
         {
             "name": "Product 7",
             "id": 7,
-            "category_id": 4,
-            "price": 5.60
+            "category_id": 3,
+            "price": 2.80,
+            "description": "Product 7 description thta is a ilonger so i can test if ti works I hope it does because i am tired and i wnat ot finish this up"
         },
         {
             "name": "Product 8",
             "id": 8,
-            "category_id": 5,
-            "price": 9.13
+            "category_id": 3,
+            "price": 2.80,
+            "description": "Product 8 description thta is a ilonger so i can test if ti works I hope it does because i am tired and i wnat ot finish this up"
         },
         {
             "name": "Product 9",
             "id": 9,
+            "category_id": 3,
+            "price": 2.80,
+            "description": "Product 9 description thta is a ilonger so i can test if ti works I hope it does because i am tired and i wnat ot finish this up"
+        },
+        {
+            "name": "Product 10",
+            "id": 10,
+            "category_id": 4,
+            "price": 2.80,
+            "description": "Product 10 description thta is a ilonger so i can test if ti works I hope it does because i am tired and i wnat ot finish this up"
+        },
+        {
+            "name": "Product 11",
+            "id": 11,
+            "category_id": 4,
+            "price": 2.80,
+            "description": "Product 11 description thta is a ilonger so i can test if ti works I hope it does because i am tired and i wnat ot finish this up"
+        },
+        {
+            "name": "Product 12",
+            "id": 12,
+            "category_id": 4,
+            "price": 2.80,
+            "description": "Product 12 description thta is a ilonger so i can test if ti works I hope it does because i am tired and i wnat ot finish this up"
+        },
+        {
+            "name": "Product 13",
+            "id": 13,
             "category_id": 5,
-            "price": 6.99
+            "price": 2.80,
+            "description": "Product 13 description thta is a ilonger so i can test if ti works I hope it does because i am tired and i wnat ot finish this up"
+        },
+        {
+            "name": "Product 14",
+            "id": 14,
+            "category_id": 5,
+            "price": 2.80,
+            "description": "Product 14 description thta is a ilonger so i can test if ti works I hope it does because i am tired and i wnat ot finish this up"
+        },
+        {
+            "name": "Product 15",
+            "id": 15,
+            "category_id": 5,
+            "price": 2.80,
+            "description": "Product 15 description thta is a ilonger so i can test if ti works I hope it does because i am tired and i wnat ot finish this up"
         }
     ]
 }
