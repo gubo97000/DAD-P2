@@ -1,0 +1,80 @@
+{
+    "categories": [
+        {
+            "name": "Category 1",
+            "id": 1
+        },
+        {
+            "name": "Category 2",
+            "id": 2
+        },
+        {
+            "name": "Category 3",
+            "id": 3
+        },
+        {
+            "name": "Category 4",
+            "id": 4
+        },
+        {
+            "name": "Category 5",
+            "id": 5
+        }
+    ],
+    "products": [
+        {
+            "name": "Product 1",
+            "id": 1,
+            "category_id": 1,
+            "price": 2.80
+        },
+        {
+            "name": "Product 2",
+            "id": 2,
+            "category_id": 1,
+            "price": 20.00
+        },
+        {
+            "name": "Product 3",
+            "id": 3,
+            "category_id": 2,
+            "price": 4.58
+        },
+        {
+            "name": "Product 4",
+            "id": 4,
+            "category_id": 2,
+            "price": 9.12
+        },
+        {
+            "name": "Product 5",
+            "id": 5,
+            "category_id": 3,
+            "price": 2.60
+        },
+        {
+            "name": "Product 6",
+            "id": 6,
+            "category_id": 3,
+            "price": 3.40
+        },
+        {
+            "name": "Product 7",
+            "id": 7,
+            "category_id": 4,
+            "price": 5.60
+        },
+        {
+            "name": "Product 8",
+            "id": 8,
+            "category_id": 5,
+            "price": 9.13
+        },
+        {
+            "name": "Product 9",
+            "id": 9,
+            "category_id": 5,
+            "price": 6.99
+        }
+    ]
+}
